@@ -12,5 +12,5 @@ The following guides illustrate how to use some features concretely:
 ### Additional Links
 These additional references should also help you:
 
-* [CSV used in the project](https://scans.gradle.com#gradle)
+* [CSV used in the project](https://github.com/EloisaPaz/csv-poc/blob/master/csv/frutas.csv)
 
